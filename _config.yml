@@ -19,7 +19,7 @@ permalink: /post/:title.html
 permalink_defaults:
 
 # Directory
-source_dir: source
+sourc_dir: source
 public_dir: public
 tag_dir: tags
 archive_dir: archives

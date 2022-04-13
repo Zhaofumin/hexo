@@ -53,7 +53,7 @@ menu:
 #! @docs https://aurora.tridiamond.tech/guide/theme.html
 #! ---------------------------------------------------------------
 theme:
-  dark_mode: true
+  dark_mode: false
   profile_shape: diamond # support `circle`, `diamond`, `rounded`
   feature: true
   gradient:
@@ -109,7 +109,7 @@ gitalk:
   owner: 'TriDiamond'
   admin: ['TriDiamond']
   id: uid
-  language: en
+  language: cn
   distractionFreeMode: true
   recentComment: true
   proxy: ''
