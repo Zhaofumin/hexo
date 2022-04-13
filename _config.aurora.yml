@@ -9,12 +9,12 @@
 #！ @docs https://aurora.tridiamond.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: Aurora's Blog
-  author: Aurora
-  nick: Auroral UI
-  description:
+  subtitle: Zfm's Blog
+  author: Zfm
+  nick: Zfm's Blog
+  description: 学习c++和python中
   link: '/'
-  language: en
+  language: cn
   multi_language: true
   logo: https://img-blog.csdnimg.cn/20210313122054101.png
   avatar: https://img-blog.csdnimg.cn/20210313122054101.png
