@@ -105,9 +105,9 @@ gitalk:
   autoExpand: true
   clientID: 'Iv1.1876e87e08bc751f'
   clientSecret: '35fd733ddf630a3a11282ab97b67ee71b31ab7ee'
-  repo: 'dev-blog-comments'
-  owner: 'TriDiamond'
-  admin: ['TriDiamond']
+  repo: 'gittalk'
+  owner: 'zfmzfmhhh'
+  admin: ['zfmzfmhhh']
   id: uid
   language: cn
   distractionFreeMode: true
@@ -127,7 +127,7 @@ valine:
   avatarForce: false
   meta: ['nick', 'mail']
   requiredFields: []
-  admin: 'TriDiamond'
+  admin: 'zfmzfmhhh'
   recentComment: true
 
 # Enable Busuanzi statistic plugin
