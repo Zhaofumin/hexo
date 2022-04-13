@@ -103,8 +103,8 @@ site_meta:
 gitalk:
   enable: true
   autoExpand: true
-  clientID: ''
-  clientSecret: ''
+  clientID: 'Iv1.1876e87e08bc751f'
+  clientSecret: '35fd733ddf630a3a11282ab97b67ee71b31ab7ee'
   repo: 'dev-blog-comments'
   owner: 'TriDiamond'
   admin: ['TriDiamond']
